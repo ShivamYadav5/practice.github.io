@@ -1,0 +1,83 @@
+h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    /* margin-left: 60px; */
+
+}
+.tahoma{
+    font-family: Tahoma;
+    margin-bottom: 20px;
+}
+.arial{
+    font-family: Arial;
+    margin-bottom: 10px;
+}
+.red{
+    font-size: 18.5px;
+    margin-bottom: 20px;
+    font-style: italic;
+    font-family: arial;
+    font-weight: 500;
+    color: red;
+    
+}
+.htm{
+    margin-bottom: px;
+
+}
+.begin{
+    margin-bottom: 12px;
+    color: gray;
+    font-size: large;
+   font-family: Verdana;
+}
+.p2{
+    font-family: Verdana;
+    font-weight: bold;
+    margin-bottom: 18px;
+}
+.getbtn{
+    margin-bottom: 20px;
+    margin-left: 18px;
+}
+.getbtn a{
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    color: white;
+    border: none;
+    background-color: rgb(11, 133, 11);
+    border-radius: 4.8px;
+    margin-left: -8px;
+    margin-right: -8px;
+
+    margin-bottom: 40px;
+    cursor: pointer;
+    text-decoration:none;
+}
+.getbtn a:hover{
+   background-color: rgb(0, 97, 0);
+}
+.shop{
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.fir{
+    text-align: center;
+    margin-bottom: 17px;
+    font-weight: bold;
+}
+.sec{
+    font-weight: 450px;
+    text-align: center;
+    color: blue;
+    font-family: arial ;
+    
+}
+

@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(224, 221, 221);
+}
+a{
+    color: #007185;
+}
+a:hover{
+    color: rgba(224, 147, 2, 0.973);
+}
+.btn1{
+    color: black;
+    background-color: rgb(255,216,20);
+    border: none;
+    border-radius: 14px;
+    font-weight: bold;
+    width: 125px;
+    height: 30px;
+    cursor: pointer;
+}
+.btn1:hover{
+    background-color: rgb(238, 198, 0);
+}
+.btn1:active{
+    opacity: 0.7;
+}
+.btn2{
+    border: none;
+    border-radius: 14px;
+    background-color: rgb(255, 164, 28);
+    font-weight: bold;
+    width: 125px;
+    height: 30px;
+    cursor: pointer;
+}
+.btn2:hover{
+    background-color: rgb(247, 148, 0);
+}
+.btn2:active{
+    opacity: 0.7;
+}
+.p{
+    color: rgb(0, 118, 0);
+}
